@@ -12,4 +12,8 @@
   2. David Warner
   3. Kane Willamson
 
+Other teams that are good to watch are-
+* Kolkata Knight Riders
+* Royal Challengers Banglore
+* Mumbai Indians
   
