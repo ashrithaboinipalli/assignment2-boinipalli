@@ -4,6 +4,7 @@
 > My interest towards cake baking has developed during the pandemic period and even helped me earn pocket money by selling cakes as a home Baker.
 
 [My Picture](Image.jpeg)
+
 ---
 ### Countries
 > The following table has a list of my favorite countires to visit.
@@ -14,3 +15,10 @@
 |Netherlands|Northern Lights|15 days|
 |France|Eiffel tower|12 days|
 |Africa|Wildlife|20 days|
+
+---
+### Quotes
+
+> "I'm not here to be perfect, I'm here to be real." - *Lady Gaga*
+> 
+> "If you can dream it, you can do it." - *Walt Disney*
